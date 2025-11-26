@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ayaan857.github.io/Desi-in-Ksa-PAK_O_Hind-.com .net/sitemap.xml
