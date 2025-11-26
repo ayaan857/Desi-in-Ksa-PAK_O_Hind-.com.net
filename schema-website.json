@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "The Arab Style",
+  "url": "https://ayaan857.github.io/Desi-in-Ksa-PAK_O_Hind-.com.net/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://ayaan857.github.io/Desi-in-Ksa-PAK_O_Hind-.com.net/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
